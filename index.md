@@ -3,7 +3,8 @@
 
 I create a ton of Scratch Projects aswell as programs in Python :P
 
-## Even though my programs are awesome, sometimes issues pop up. Check them out and even add issues I haven't found yet!
+Even though my programs are awesome, sometimes issues pop up. Check them out and even add issues I haven't found yet!
+
 ### <a href="https://github.com/DaRealSqueaky/IssuesForMyPrograms/issues">Issues With My Programs</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
