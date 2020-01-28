@@ -1,5 +1,4 @@
-## Welcome!
-
+## Squeaky
 ## Hi! I'm Squeaky!
 
 I create a ton of Scratch Projects aswell as programs in Python :P
