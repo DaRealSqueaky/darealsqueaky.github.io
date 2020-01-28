@@ -5,7 +5,7 @@ I create a ton of Scratch Projects aswell as programs in Python :P
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### <a href="https://github.com/DaRealSqueaky/IssuesForMyPrograms/issues">Issues With My Programs</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
