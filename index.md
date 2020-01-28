@@ -2,7 +2,7 @@
 
 ## Hi! I'm Squeaky!
 
-I create a ton of Scratch Projects aswell as programs in Python :)
+I create a ton of Scratch Projects aswell as programs in Python :P
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
