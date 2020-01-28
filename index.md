@@ -13,9 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 # Rocky
 ## <a href="https://darealsqueaky.github.io/downloadrocky.html">Download Here!</a>
 
-### 
-- Bulleted
-- List
+
 
 1. Numbered
 2. List
